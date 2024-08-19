@@ -1,2 +1,9 @@
-This is the first yt video link for python pandas where imported pandas and read csv file
-[YouTube Video](https://youtu.be/Zyhvh-qRZPA?si=msUbaEWN-TTd4DTU)
+Requirements - Python Fundamentals
+Req tools - Jupyter,Pandas,Python
+In this demo we learn to reading csv file and doing some data frame operation using its methods and we imported pandas and read csv file 
+
+https://survey.stackoverflow.co/-This is the link for downloading the csv file using this we can do operations
+
+This is the first yt video link for python pandas  
+
+[YouTube Video](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=1)
